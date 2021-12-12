@@ -8,7 +8,7 @@
 | 빌더 | Builder | - | - | X |
 | 팩토리메서드 | Factory Method | - | - | X |
 | 프로토타입 | Prototype | - | - | X |
-| 싱글턴 | Singleton | - | - | X |
+| 싱글턴 | Singleton | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/creational_patterns/singleton) | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/creational_patterns/singleton) | O |
 
 # 구조(Structural) 패턴
 
@@ -22,7 +22,7 @@
 | 데코레이터 | Decorator | - | - | X |
 | 퍼사드 | Facade | - | - | X |
 | 플라이웨이트 | Flyweight | - | - | X |
-| 프록시 | Proxy | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/creational_patterns/proxy) | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Kotlin/src/creational_patterns/proxy) | O |
+| 프록시 | Proxy | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/structural_patterns/proxy) | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Kotlin/src/structural_patterns/proxy) | O |
 
 # 행위(Behavioral) 패턴
 
@@ -33,7 +33,7 @@
 | 책임 연쇄 | Chain of Responsibility | - | - | X |
 | 커맨드 | Command | - | - | X |
 | 인터프리터 | Interpreter | - | - | X |
-| 미디에이터 | Iterator | - | - | X |
+| 이더레이터 | Iterator | - | - | X |
 | 메멘토 | Memento | - | - | X |
 | 옵서버 | Observer | - | - | X |
 | 스테이트 | State | - | - | X |

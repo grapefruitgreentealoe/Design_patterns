@@ -1,4 +1,4 @@
-package creational_patterns.proxy.before;
+package structural_patterns.proxy.before;
 
 /**
  * startGame() 의 시간을 재고 싶다.

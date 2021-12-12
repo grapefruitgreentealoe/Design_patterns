@@ -1,4 +1,4 @@
-package creational_patterns.proxy.before;
+package structural_patterns.proxy.before;
 
 public class GameService {
 

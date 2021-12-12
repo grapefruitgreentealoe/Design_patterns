@@ -1,4 +1,4 @@
-package creational_patterns.proxy.after;
+package structural_patterns.proxy.after;
 
 public class GameServiceProxy implements GameService {
 
