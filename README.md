@@ -5,7 +5,7 @@
 | 이름 | NAME | Java | Kotlin | 여부 |
 | :---: | :---: | :---: | :---: | :---: |
 | 추상 팩토리 | Abstract Factory | - | - | X |
-| 빌더 | Builder | - | - | X |
+| 빌더 | Builder | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/creational_patterns/builder) | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/creational_patterns/builder) | O |
 | 팩토리메서드 | Factory Method | - | - | X |
 | 프로토타입 | Prototype | - | - | X |
 | 싱글턴 | Singleton | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/creational_patterns/singleton) | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/creational_patterns/singleton) | O |
