@@ -38,5 +38,5 @@
 | 옵서버 | Observer | - | - | - |
 | 스테이트 | State | - | - | - |
 | 스트레티지 | Strategy | - | - | - |
-| 템플릿 메서드 | Template Method | - | - | - |
+| 템플릿 메서드 | Template Method | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/behavioral_patterns/templatemethod) | - | [![바로가기](./images/clipboard.jpg)](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/behavioral_patterns/templatemethod/summary.md) |
 | 비지터 | Visitor | - | - | - |
