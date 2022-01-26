@@ -37,6 +37,6 @@
 | 메멘토 | Memento | - | - | - |
 | 옵서버 | Observer | - | - | - |
 | 스테이트 | State | - | - | - |
-| 스트레티지 | Strategy | - | - | - |
+| 스트레티지 | Strategy | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/behavioral_patterns/strategy) | - | [![바로가기](./images/clipboard.jpg)](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/behavioral_patterns/strategy/summary.md) |
 | 템플릿 메서드 | Template Method | [바로가기](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/behavioral_patterns/templatemethod) | - | [![바로가기](./images/clipboard.jpg)](https://github.com/mangchhe/Design_patterns/tree/main/Java/src/behavioral_patterns/templatemethod/summary.md) |
 | 비지터 | Visitor | - | - | - |
