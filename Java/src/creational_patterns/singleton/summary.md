@@ -8,7 +8,11 @@
 
 ## 다이어그램
 
+<div align="center">
+
 ![singleton](https://user-images.githubusercontent.com/50051656/149616788-cacb40e8-9e3d-4753-a00d-59a849bef0b9.png)
+
+</div>
 
 - 자기 자신의 인스턴스를 가짐
 - 생성자를 통해 생성하지 못하도록 private으로 막혀있음

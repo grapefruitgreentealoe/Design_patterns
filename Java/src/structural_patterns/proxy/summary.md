@@ -6,7 +6,11 @@
 
 ## 다이어그램
 
+<div align="center">
+
 ![proxy](https://user-images.githubusercontent.com/50051656/149619520-74302485-b39e-4b8a-bf68-316213a6af0c.png)
+
+</div>
 
 - Subject : Proxy, RealSubject가 구현해야 하는 인터페이스
 - RealSubject : 실제 수행되는 주 기능

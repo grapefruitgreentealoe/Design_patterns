@@ -7,7 +7,11 @@
 
 # 다이어그램
 
+<div align="center">
+
 ![builder](https://user-images.githubusercontent.com/50051656/149618979-84e3ce78-4bc6-474e-8fb6-dc04a4e2cd22.png)
+
+</div>
 
 - Builder : 인스턴스 생성을 위한 인터페이스
 - ConcreteBuilder : Builder 인터페이스를 구현

@@ -6,7 +6,11 @@
 
 ## 다이어그램
 
+<div align="center">
+
 ![factorymethod](https://user-images.githubusercontent.com/50051656/149655409-606f9036-e9a4-47ec-b6c9-0e9583206111.png)
+
+</div>
 
 - Creator : 공통된 처리 작업을 구현하고 변경이 필요한 부분은 추상 메소드로 구현하여 따로 구현될 수 있도록 함
 - ConcreteCreator : 하위 클래스에서 변경된 부분을 구체적으로 구현할 수 있도록 함
